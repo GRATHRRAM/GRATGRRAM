@@ -1,4 +1,4 @@
-# GRATGRRAM
+# MODS
 GO TO WHERE YOURS KARLSON FOLDER IS my is in
 C:\Users\%user_name%\Desktop\karlson
 so you going "karlson_data" 
